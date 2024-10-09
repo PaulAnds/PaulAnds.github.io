@@ -34,19 +34,19 @@ color:
 footer:
   copyright: Paul Andres Solis
   # location: Location
-  social: Around the Web
+  social: Contact
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/paulands01
   - title: itch.io
-    url:
+    url: https://paulands.itch.io
   - title: instagram
-    url:
+    url: https://www.instagram.com/paulandsdev
   - title: LinkedIn
-    url:
+    url: https://www.linkedin.com/in/paulands/
   - title: github
     url: http://github.com/paulands
 
