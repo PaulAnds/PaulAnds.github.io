@@ -35,6 +35,11 @@
                 <strong>{{ post.category }}</strong>
               </li>
               {% endif %}
+              {% if post.button %}
+              <li>Service:
+                  <a class="btn" href={{post.button}}>Click me!</a>
+              </li>
+              {% endif %}
             </ul>
             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>
               Close</button>
