@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
+modal-id: 6
+date: 2023-10-31
+img: submarine.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-button: https://github.com/PaulAnds/PaulAnds.github.io
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: October 2023
+client: Personal Project
+category: Solo Game Developer
+button: https://paulands.itch.io/arise-sapling
+description: In "Arise, Sapling" you embark on an enchanting and mysterious journey as a unique protagonist, now reincarnated as a tree spirit in a graveyard. This immersive and emotionally charged adventure will take you on a quest to uncover the secrets of your forgotten past, rekindling your sense of purpose and unveiling the darkness that shrouds your history.
 ---
