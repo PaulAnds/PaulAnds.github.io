@@ -2,7 +2,7 @@
 layout: default
 modal-id: 6
 date: 2023-10-31
-img: submarine.png
+img: arise.png
 alt: image-alt
 project-date: October 2023
 client: Personal Project
