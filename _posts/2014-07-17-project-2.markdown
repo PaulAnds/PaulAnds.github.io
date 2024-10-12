@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
-img: cake.png
+date: 2024-04-28
+img: robot.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-button: https://github.com/PaulAnds/PaulAnds.github.io
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: April 2024
+client: Game Jam
+category: Game Developer
+button: https://paulands.itch.io/last-robot-in-earth
+description: You are the last robot that survives the apocalypse in the world, you find a little plant and you want to take it to a bunker before you "die" (by falling into the water, or dying in some way over which Chat has control). You pass obstacles but spectators can prevent you from reaching them with various commands.
 ---
