@@ -7,6 +7,7 @@
 body {
     overflow-x: hidden;
     background-color: #{{ site.color.secondary }};
+    color: #fff 
 }
 
 p {
@@ -57,10 +58,11 @@ hr.star-primary:after {
     padding: 0 .25em;
     font-family: FontAwesome;
     font-size: 2em;
+    background-color: #{{ site.color.secondary }};
 }
 
 hr.star-light {
-    border-color: #fff;
+    border-color: #f4ff;
 }
 
 hr.star-light:after {
@@ -69,12 +71,12 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #fff
+    border-color: #f4ff
 }
 
 hr.star-primary:after {
     color: #fff
-    background-color: #{{ site.color.secondary }};                                                                     /* make the same as background color*/
+    background-color: #{{ site.color.secondary }};                                                                     
 }
 
 .img-centered {
