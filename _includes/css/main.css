@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    background-color: #{{ site.color.secondary }};
 }
 
 p {
@@ -68,12 +69,12 @@ hr.star-light:after {
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: #fff
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
-    background-color: #ff3f;
+    color: #fff
+    background-color: #{{ site.color.secondary }};                                                                     /* make the same as background color*/
 }
 
 .img-centered {
