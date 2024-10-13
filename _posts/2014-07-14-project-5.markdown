@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 5
-date: 2014-07-14
-img: safe.png
+date: 2021-05-14
+img: unicorn.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-button: https://github.com/PaulAnds/PaulAnds.github.io
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: May 2021
+client: Duo Project
+category: Game Developer
+button: https://sangamedevs.itch.io/unicornslayer
+description: I did this project a long time ago with a friend (SanGameDev) from college, one of the first games we have ever made in our career, good enough to show where we started as developers almost 4 years ago.
 ---

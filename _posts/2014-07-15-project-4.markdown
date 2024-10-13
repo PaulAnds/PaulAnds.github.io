@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: game.png
+date: 2024-07-30
+img: lumi.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-button: https://github.com/PaulAnds/PaulAnds.github.io
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+project-date: July 2024
+client: Game Jam
+category: Game Developer
+button: https://paulands.itch.io/luminaris
+description: The player spawns in a world that everything is dark consumed by shadows, which he then lights up as he walks around. By passing two levels the player reaches the end by using some strange boxes that combine to become bigger, to reach his goal.
 ---
