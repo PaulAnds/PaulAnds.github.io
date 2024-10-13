@@ -5,8 +5,8 @@ date: 2016-03-27
 img: pinata.png
 alt: image-alt
 project-date: July 2023
-client: Game Jam
-category: Unreal Engine 5.1
+category: Game Jam
+engine: Unreal Engine 5.1
 button: https://paulands.itch.io/joy-the-piniata
 description: In "Joy The Piñata," players guide a sorrowful piñata seeking revenge after returning home to find their family destroyed by kids. Embark on an emotional journey filled with action packed fighting with custom abilities to use against these kids. 
 ---

@@ -5,8 +5,8 @@ date: 2018-10-31
 img: arise.png
 alt: image-alt
 project-date: October 2023
-client: Personal Project
-category: Unreal Engine 5.3
+category: Personal Project
+engine: Unreal Engine 5.3
 button: https://paulands.itch.io/arise-sapling
 description: In "Arise, Sapling" you embark on an enchanting and mysterious journey as a unique protagonist, now reincarnated as a tree spirit in a graveyard. This immersive and emotionally charged adventure will take you on a quest to uncover the secrets of your forgotten past, rekindling your sense of purpose and unveiling the darkness that shrouds your history.
 ---
