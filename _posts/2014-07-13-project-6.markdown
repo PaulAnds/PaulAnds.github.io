@@ -2,6 +2,7 @@
 layout: default
 modal-id: 6
 date: 2013-07-15
+title: Coming Soon
 img: comingsoon.png
 alt: image-alt
 description: Coming soon

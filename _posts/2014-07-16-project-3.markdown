@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 3
+title: Joy the Pinata
 date: 2016-03-27
 img: pinata.png
 alt: image-alt

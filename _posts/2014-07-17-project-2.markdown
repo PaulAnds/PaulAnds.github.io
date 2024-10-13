@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Last Robot in Earth
 modal-id: 2
 date: 2017-04-28
 img: robot.png
