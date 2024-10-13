@@ -6,7 +6,7 @@ img: unicorn.png
 alt: image-alt
 project-date: May 2021
 client: Duo Project
-category: Game Developer
+category: Unity
 button: https://sangamedevs.itch.io/unicornslayer
 description: I did this project a long time ago with a friend (SanGameDev) from college, one of the first games we have ever made in our career, good enough to show where we started as developers almost 4 years ago.
 ---

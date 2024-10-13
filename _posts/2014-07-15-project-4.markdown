@@ -6,7 +6,7 @@ img: lumi.png
 alt: image-alt
 project-date: July 2024
 client: Game Jam
-category: Game Developer
+category: Unreal Engine 4.27
 button: https://paulands.itch.io/luminaris
 description: The player spawns in a world that everything is dark consumed by shadows, which he then lights up as he walks around. By passing two levels the player reaches the end by using some strange boxes that combine to become bigger, to reach his goal.
 ---
