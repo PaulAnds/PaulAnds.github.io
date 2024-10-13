@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 2
-date: 2024-04-28
+date: 2017-04-28
 img: robot.png
 alt: image-alt
 project-date: April 2024
